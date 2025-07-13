@@ -1,0 +1,15 @@
+# Core dependencies
+PyMuPDF==1.23.8
+openai>=1.0.0
+pandas==2.1.4
+openpyxl==3.1.2
+python-dotenv==1.0.0
+httpx>=0.25.0
+
+# FastAPI dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Optional: For better Excel formatting
+xlsxwriter==3.1.9 
